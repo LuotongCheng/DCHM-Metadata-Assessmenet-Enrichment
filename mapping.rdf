@@ -1,0 +1,1657 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/chengluotong/ontologies/2024/4/untitled-ontology-40/"
+     xml:base="http://www.semanticweb.org/chengluotong/ontologies/2024/4/untitled-ontology-40/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:lrmoo="http://iflastandards.info/ns/lrm/lrmoo/"
+     xmlns:crmdig="http://www.cidoc-crm.org/extensions/crmdig/"
+     xmlns:cidoc-crm="http://www.cidoc-crm.org/cidoc-crm/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/chengluotong/ontologies/2024/4/untitled-ontology-40">
+        <owl:imports rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/"/>
+        <owl:imports rdf:resource="http://www.cidoc-crm.org/cidoc-crm/"/>
+        <owl:imports rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Albert_Von_Kampen -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Albert_Von_Kampen">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Albert Kampen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Amsterdam -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Amsterdam">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Amsterdam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Bibliotheek_Backer -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Bibliotheek_Backer">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Bibliotheek Backer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Chez_Regner_Iosué_Ottens_geographes_sur_le_Nieuwendyk -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Chez_Regner_Iosué_Ottens_geographes_sur_le_Nieuwendyk">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Chez Regner ÿ&amp; Iosué Ottens geographes #sur le Nieuwendyk#</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Daniel_Langeweg -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Daniel_Langeweg">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Daniel Langeweg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Egbert_Haubois -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Egbert_Haubois">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Egbert Haubois</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gotha -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gotha">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <rdfs:label>Gotha</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gregor_Reisch -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gregor_Reisch">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Gregor Reisch</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Guillaume_Delisle -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Guillaume_Delisle">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Guillaume Delisle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Haack -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Haack">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Haack</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Henricum_Stephanum -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Henricum_Stephanum">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>Henricum Stephanum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Italian -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Italian">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+        <rdfs:label>Italian</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#J._Hondius_en_C._Claesz -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#J._Hondius_en_C._Claesz">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>J. Hondius en C. Claesz</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Legenda -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Legenda">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+        <rdfs:label>Legenda</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Parrhisijs -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Parrhisijs">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <rdfs:label>Parrhisijs</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>uklu 01-28-18</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>uklu 01-23-25</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>uklu 01-22-03</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>Rol middel 003</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>SYLLABUS 1619 177 (uklu RD--- 1)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2970 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2970">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdfs:label>uklu RG 1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E39_Actor"/>
+        <rdfs:label>UB Groningen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#copper_engraving -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#copper_engraving">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:label>copper engraving</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1224"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Egbert_Haubois"/>
+        <cidoc-crm:P32_used_general_technique rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#copper_engraving"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1492"/>
+        <cidoc-crm:P32_used_general_technique rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#copper_engraving"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1498"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Guillaume_Delisle"/>
+        <cidoc-crm:P32_used_general_technique rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#copper_engraving"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2790"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <lrmoo:R17_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2791"/>
+        <cidoc-crm:P32_used_general_technique rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#woodcut"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan2791"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1652</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#creation_timespan2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1503</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#de_aanval_van_de_Fransen_op_Bergen_op_Zoom_juli_1747 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#de_aanval_van_de_Fransen_op_Bergen_op_Zoom_juli_1747">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E5_Event"/>
+        <rdfs:label>de aanval van de Fransen op Bergen op Zoom juli 1747</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1224"/>
+        <cidoc-crm:P3_has_note>Met oorspronkelijk impressum: [Groningen] : Sam. Pieman excudit ; door de aanwezigheid van de Nieuwe Kerk moet de kaart op zijn vroegst gedrukt zijn in 1694 | Beschreven in: Vredenberg-Alink, De kaarten van Groningerland, IV B 12 (5) |
+Met lijsten van openbare gebouwen en gasthuizen en van straten en poorten | Boven de kaart portretten van stadhouders en de wapens van provincie en stad Groningen |</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1492"/>
+        <cidoc-crm:P3_has_note>Noordnoordoost boven Legenda |
+Onder de kaart beschrijving van de aanval van de Fransen op Bergen op Zoom juli 1747 |
+Beschreven in: Van Rijn, Atlas van Stolk, dl. 5 p. 83, 3707 |
+Schaalstok van 200 Rinlandsche roeden [= 4,1 cm] |</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1498"/>
+        <cidoc-crm:P3_has_note>Partie meridionale de la Souabe qui convient au theatre de la guerre ou Carte nouvelle du cours du Rhin au dessus de Strasbourg
+[1] Au dessus de Strasbourg, et les pays adjacens (vgl. fondslijst Ottens 104); [2.] Depuis Strasbourg jusqu&apos;a Worms et les pays adjacens (fondslijst Ottens 105); [3.] Depuis Worms jus qu&apos;a Bonne avec les pays adjacens (fondslijst Ottens 106); [4.] Partie meridionale de la Souabe qui convient au theatre de la guerre ou Carte nouvelle du cours du Rhin au dessus de Strasbourg (fondslijst Ottens 107); [5.] Partie septentrionale de la Souabe qui convient au theatre de la guerre ou Carte nouvelle du cours du Rhin depuis Strasbourg jusqu&apos;a Worms (fondslijst Ottens 108); [6.] [Hoofdtitel] (fondslijst Ottens 109)
+Bl. [6] met plattegronden van vestingwerken: Coblentz, Landau, Fort Louis, Brisach, Strasbourg, Siege de Philipsbourg, Mayence, Manheim, Hailbron, Fribourg</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2790"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R4_embodies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2791"/>
+        <cidoc-crm:P3_has_note>Zonder titel met vier windhoofden. Kaart naar Ptolemeus,in ovale projectie. - Lit.: Shirley (1983) nr. 23. - Deze kaart versch. eerder iets groter in 1503 in Freiburg met twaalf windhoofden. - Een eerste verwijzing naar Amerika is mogelijk de volgende Latijnse tekst rechtsonder: Hic no ̄terra sed mare e:̄ in qvo mire magnitvdis̄ is̄vlae sed phtolomeo fvervnt incognitæ.</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+        <cidoc-crm:P165_incorporates rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#linguistic_feature1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+        <cidoc-crm:P165_incorporates rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Legenda"/>
+        <cidoc-crm:P165_incorporates rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#title_in_map"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#expression2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F2_Expression"/>
+        <cidoc-crm:P165_incorporates rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature2791"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#linguistic_feature1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#linguistic_feature1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+        <rdfs:label>Met lijsten van openbare gebouwen en gasthuizen en van straten en poorten</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P90_has_value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P90_has_value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State"/>
+        <rdfs:label>Geplakt op linnen, zeer matige afdruk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E3_Condition_State"/>
+        <rdfs:label>gedrukt in kleuren</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1224"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1492"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Daniel_Langeweg"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1492"/>
+        <cidoc-crm:P7_took_place_at rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#s_Gravenhage"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1498"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#Title"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1498"/>
+        <cidoc-crm:P7_took_place_at rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Amsterdam"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2605"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Haack"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2605"/>
+        <cidoc-crm:P7_took_place_at rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gotha"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2790"/>
+        <lrmoo:R24_created rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#reference2790"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#J._Hondius_en_C._Claesz"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2790"/>
+        <cidoc-crm:P7_took_place_at rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Amsterdam"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation"/>
+        <lrmoo:R24_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2791"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Henricum_Stephanum"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2791"/>
+        <cidoc-crm:P7_took_place_at rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Parrhisijs"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1694</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1747</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1740-1749</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1984</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1605</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#publication_timespan2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>1509</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#s_Gravenhage -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#s_Gravenhage">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>s Gravenhage</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>1:6.500</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>1:9000</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>1:250.000</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>1:750.000</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>1:4.850.000</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>totaal 45,5 x 55 cm, plattegrond van de stad 25,5 x 35 cm</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>20 x 24 cm</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>137,5 x 124 cm</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>168 x 148 cm, stokbreedte 158 cm</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>34 x 40,5 cm.</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+        <cidoc-crm:P3_has_note>27,5 x 39,0 cm (met marge 30 x 43 cm)</cidoc-crm:P3_has_note>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#title_in_map -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#title_in_map">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object"/>
+        <cidoc-crm:P72_has_language rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Italian"/>
+        <rdfs:label>Title in map</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
+        <cidoc-crm:P165_incorporates rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature1224"/>
+        <rdfs:label>portretten van stadhouders en de wapens van provincie en stad Groningen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#visual_feature2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
+        <rdfs:label>vier windhoofden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#woodcut -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#woodcut">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:label>woodcut</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Daniel_Langeweg"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Albert_Von_Kampen"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt2971 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#wrt2971">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation"/>
+        <cidoc-crm:P14_carried_out_by rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Gregor_Reisch"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1124#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bourtange"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Coevorden"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Delfzijl"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Nieuweschans"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Groningen_(stad)"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1224"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224#digitization1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224#digitization1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224#digitization_timespan1224"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1224#physical_item1224"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224#digitization_timespan1224 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224#digitization_timespan1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2012-10-24</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <lrmoo:R78_has_alternate rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#previous1492"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P129_is_about rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#de_aanval_van_de_Fransen_op_Bergen_op_Zoom_juli_1747"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bergen_op_Zoom_(stad)"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1492"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_timespan1492"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#physical_item1492"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_mdf_timespan1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_mdf_timespan1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <crmdig:L20_has_created rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#previous1492"/>
+        <cidoc-crm:P82_at_some_time_within>2012-10-26</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_timespan1492 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_timespan1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2012-10-24</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <lrmoo:R78_has_alternate rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#previous1498"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Duitsland"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frankrijk"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Rijn"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number1498"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_timespan1498"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#physical_item1498"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_mdf_timespan1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_mdf_timespan1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <crmdig:L20_has_created rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#previous1498"/>
+        <cidoc-crm:P82_at_some_time_within>2012-10-26</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_timespan1498 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_timespan1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2012-10-24</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <lrmoo:R78_has_alternate rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#previous2605"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Stokkaart"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wandkaart"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2605"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_timespan2605"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#physical_item2605"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_mdf_timespan2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_mdf_timespan2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <crmdig:L20_has_created rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#previous2605"/>
+        <cidoc-crm:P82_at_some_time_within>2018-06-01</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_timespan2605 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_timespan2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2017-01-23</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frisia"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Romeinse_oudheid"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2790"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790"/>
+        <cidoc-crm:P67_refers_to rdf:resource="https://dbc.rug.nl/digital/collection/syllabus/id/10475#Collection_Syllabus"/>
+        <cidoc-crm:P72_has_language rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#language_Latin"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790#digitization2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790#digitization2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790#digitization_timespan2790"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#physical_item2790"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790#digitization_timespan2790 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790#digitization_timespan2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2023-09-14</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#Title"/>
+        <cidoc-crm:P104_is_subject_to rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Earth"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe"/>
+        <cidoc-crm:P129_is_about rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Italy"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wereldkaarten"/>
+        <cidoc-crm:P2_has_type rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#map_number2791"/>
+        <cidoc-crm:P48_has_preferred_identifier rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791"/>
+        <cidoc-crm:P72_has_language rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#language_Latin"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791#digitization2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791#digitization2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791#digitization_timespan2791"/>
+        <crmdig:L1_digitized rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#physical_item2791"/>
+        <crmdig:L20_has_created rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791#digitization_timespan2791 -->
+
+    <owl:NamedIndividual rdf:about="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791#digitization_timespan2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span"/>
+        <cidoc-crm:P82_at_some_time_within>2024-02-21</cidoc-crm:P82_at_some_time_within>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bourtange -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bourtange">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Bourtange</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Coevorden -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Coevorden">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Coevorden</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Copyright_UBG">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E30_Right"/>
+        <rdfs:label>Copyright UGL. Free use for non-commercial purposes. In publications, &quot;University of Groningen Library, Special Collections&quot; must be mentioned as source.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Delfzijl -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Delfzijl">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Delfzijl</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Duitsland -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Duitsland">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <rdfs:label>Duitsland</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Earth -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Earth">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <rdfs:label>Earth</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Earth"/>
+        <rdfs:label>Europe</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frankrijk -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frankrijk">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <rdfs:label>Frankrijk</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frisia -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Frisia">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Frisia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Italy -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Italy">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe"/>
+        <rdfs:label>Italy</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa"/>
+        <rdfs:label>Netherlands</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Nieuweschans -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Nieuweschans">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <rdfs:label>Nieuweschans</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Rijn -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Rijn">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Rijn</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Romeinse_oudheid -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Romeinse_oudheid">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E4_Period"/>
+        <rdfs:label>Romeinse_oudheid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Stokkaart -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Stokkaart">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <cidoc-crm:P127_has_broader_term rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <rdfs:label>Stokkaart</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wandkaart -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wandkaart">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <cidoc-crm:P127_has_broader_term rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <rdfs:label>Wandkaart</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wereldkaarten -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Wereldkaarten">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <cidoc-crm:P127_has_broader_term rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map"/>
+        <rdfs:label>Wereldkaarten</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#West-Europa">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Europe"/>
+        <rdfs:label>West-Europa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_1492 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492#digitization_mdf_timespan1492"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_1498 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498#digitization_mdf_timespan1498"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_2605 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#digitization_mdf_2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D2_Digitization_Process"/>
+        <cidoc-crm:P4_has_time-span rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605#digitization_mdf_timespan2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#format_jpg">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:label>jpg</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#language_Latin -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#language_Latin">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E56_Language"/>
+        <rdfs:label>Latin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#reference2790 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#reference2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+        <lrmoo:R71_has_part rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2790"/>
+        <rdfs:label>Claudii Ptolemæi Alexandrini geographiae libri octo Græco-Latini</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#type_Map">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+        <rdfs:label>Map</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bergen_op_Zoom_(stad) -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Bergen_op_Zoom_(stad)">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <cidoc-crm:P10_falls_within rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Netherlands"/>
+        <rdfs:label>Bergen_op_Zoom_(stad)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Groningen_(stad) -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten#Groningen_(stad)">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53_Place"/>
+        <rdfs:label>Groningen_(stad)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1124#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1124#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <rdfs:label>Afbeeldinge der stadt Groningen met de omliggende fortressen : 1652</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1224#physical_item1224 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1224#physical_item1224">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1224"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1224"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1224"/>
+        <cidoc-crm:P44_has_condition rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition1224"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1224"/>
+        <cidoc-crm:P51_has_former_or_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Bibliotheek_Backer"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <cidoc-crm:P102_has_title rdf:resource="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#Title"/>
+        <rdfs:label>Tweede stuk der beleegering van Bergen op Zoom : met de afbeeldinge der Franse attaque op de Linie en Roversfort</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#physical_item1492 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#physical_item1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1492"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1492"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1492"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1492"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#previous1492 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1492#previous1492">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <rdfs:label>Grand theatre de la guerre sur les frontieres de France ÿ&amp; d&apos;Allemagne ou carte nouvelle du cours du Rhin et des païs circonvoisins contenant la Haute ÿ Basse Alsace, ...</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#physical_item1498 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#physical_item1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit1498"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale1498"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size1498"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark1498"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#previous1498 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/1498#previous1498">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <rdfs:label>Italia</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#physical_item2605 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#physical_item2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2605"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2605"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2605"/>
+        <cidoc-crm:P44_has_condition rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#physical_condition2605"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2605"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#previous2605 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2605#previous2605">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <rdfs:label>Europae Tabula IIII</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#physical_item2790 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2790#physical_item2790">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2790"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#scale2790"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2790"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2791"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#Title -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#Title">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E35_Title"/>
+        <rdfs:label>Wereldkaart 1509</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#physical_item2791 -->
+
+    <owl:NamedIndividual rdf:about="https://cdm21053.contentdm.oclc.org/digital/collection/Kaarten/id/2791#physical_item2791">
+        <rdf:type rdf:resource="http://iflastandards.info/ns/lrm/lrmoo/F5_Item"/>
+        <cidoc-crm:P137_exemplifies rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#edit2791"/>
+        <cidoc-crm:P43_has_dimension rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#size2791"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#Shelfmark2970"/>
+        <cidoc-crm:P52_has_current_owner rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten#UB_Groningen"/>
+        <cidoc-crm:P57_has_number_of_parts rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</cidoc-crm:P57_has_number_of_parts>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/collection/syllabus/id/10475#Collection_Syllabus -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/collection/syllabus/id/10475#Collection_Syllabus">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/extensions/crmdig/D9_Data_Object"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/1223/full/full/0/default.jpg#iiifimg1224 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/1223/full/full/0/default.jpg#iiifimg1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1223/full/full/0/default.jpg#iiifimg1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/1489/full/full/0/iiifimg1492 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/1489/full/full/0/iiifimg1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1489/full/full/0/iiifimg1492"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/1495/full/full/0/iiifimg1498 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/1495/full/full/0/iiifimg1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1495/full/full/0/iiifimg1498"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/2605/full/full/0/iiifimg2605 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/2605/full/full/0/iiifimg2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2605/full/full/0/iiifimg2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/2788/full/full/0/iiifimg2790 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/2788/full/full/0/iiifimg2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2788/full/full/0/iiifimg2790"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/digital/iiif/Kaarten/2791/full/full/0/iiifimg2791 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/digital/iiif/Kaarten/2791/full/full/0/iiifimg2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P138_represents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2791/full/full/0/iiifimg2791"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/1224/mft1224 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/1224/mft1224">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/1224/mft1224"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1224"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1223/full/full/0/default.jpg#iiifimg1224"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/1492/mft1492 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/1492/mft1492">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/1492/mft1492"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1492"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1489/full/full/0/iiifimg1492"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/1498/mft1498 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/1498/mft1498">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/1498/mft1498"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/1498"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/1495/full/full/0/iiifimg1498"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/2605/mft2605 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/2605/mft2605">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/2605/mft2605"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2605"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2605/full/full/0/iiifimg2605"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/2790/mft2790 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/2790/mft2790">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/2790/mft2790"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2790"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2788/full/full/0/iiifimg2790"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://dbc.rug.nl/iiif/info/Kaarten/2791/mft2791 -->
+
+    <owl:NamedIndividual rdf:about="https://dbc.rug.nl/iiif/info/Kaarten/2791/mft2791">
+        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E42_Identifier"/>
+        <cidoc-crm:P48i_is_preferred_identifier_of rdf:resource="https://dbc.rug.nl/iiif/info/Kaarten/2791/mft2791"/>
+        <crmdig:L60_documents rdf:resource="http://cdm21053.contentdm.oclc.org/cdm/ref/collection/Kaarten/id/2791"/>
+        <crmdig:L60_documents rdf:resource="https://dbc.rug.nl/digital/iiif/Kaarten/2791/full/full/0/iiifimg2791"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi -->
+
