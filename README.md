@@ -3,6 +3,8 @@ This repository contains resources related to the thesis "Metadata Assessment an
 
 ## Contents
 
+- **DCHM Metadata: The `DCHM.csv` CSV file contains metadata for the DCHM. 
+
 - **Conceptual Model**: The `conceptual_model` folder contains the ontology model developed for the UG Library's DCHM. This model includes the concepts used to structure the metadata of the historical maps in the digital collection.
 
 - **RDF Implementation**: The `cartographical_heritage_ontology.rdf` file is an RDF implementation of the conceptual model. It represents metadata from 6 maps selected from the UG Library's DCHM, showcasing the most complete metadata available for these maps.
