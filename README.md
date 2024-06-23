@@ -3,7 +3,7 @@ This repository contains resources related to the thesis "Metadata Assessment an
 
 ## Contents
 
--**Original Metadata Records**: The `metadata_record.xml` file is the original metadata records exported from the UG Library's CONTENTdm Administration. 
+- **Original Metadata Records**: The `metadata_record.xml` file is the original metadata records exported from the UG Library's CONTENTdm Administration. 
 
 - **DCHM Metadata**: The `DCHM.csv` file contains the original metadata for the DCHM. This file is derived from the xml file. 
 
