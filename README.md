@@ -3,7 +3,9 @@ This repository contains resources related to the thesis "Metadata Assessment an
 
 ## Contents
 
-- **DCHM Metadata**: The `DCHM.csv` CSV file contains the original metadata for the DCHM. 
+-**Original Metadata Records**: The `metadata_record.xml` file is the original metadata records exported from the UG Library's CONTENTdm Administration. 
+
+- **DCHM Metadata**: The `DCHM.csv` file contains the original metadata for the DCHM. This file is derived from the xml file. 
 
 - **Conceptual Model**: The `conceptual_model` folder contains the ontology model developed for the UG Library's DCHM. This model includes the concepts used to structure the metadata of the historical maps in the digital collection.
 
