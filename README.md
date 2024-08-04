@@ -14,3 +14,11 @@ This repository contains resources related to the thesis "Metadata Assessment an
 - **RDF Implementation**: The `cartographical_heritage_ontology.rdf` file is an RDF implementation of the conceptual model. It represents metadata from 6 maps selected from the UG Library's DCHM, showcasing the most complete metadata available for these maps.
 
 - **SPARQL Query Examples**: The `SPARQL.ipynb` Jupyter Notebook provides examples of SPARQL queries used to validate and query the RDF data based on the ontology model. These queries help demonstrate the utility and correctness of the implemented model.
+
+- **Questionnaires**:
+  - `questionnaire1.pdf` is the initial questionnaire with general questions.
+  - `questionnaire2.pdf` is the second questionnaire with in-depth questions.
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). To view a copy of this license, see the [LICENSE.md](./LICENSE.md) file for details.
