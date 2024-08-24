@@ -15,6 +15,9 @@ This repository contains resources related to the thesis "Metadata Assessment an
 
 - **SPARQL Query Examples**: The `SPARQL.ipynb` Jupyter Notebook provides examples of SPARQL queries used to validate and query the RDF data based on the ontology model. These queries help demonstrate the utility and correctness of the implemented model.
 
+- **SPARQL Endpoint**: You can access and query the RDF data through the following SPARQL endpoint: https://fuseki.devweb.rug.nl/#/dataset/DCHM/query.
+
+
 - **Questionnaires**:
   - `questionnaire1.pdf` is the initial questionnaire with general questions.
   - `questionnaire2.pdf` is the second questionnaire with in-depth questions.
